@@ -67,7 +67,7 @@
     frame_width = 1
 
     # Defines color of the frame around the notification window.
-    frame_color = "#1B2224"
+    frame_color = "#141416"
 
     # Define a color for the separator.
     # possible values are:
@@ -178,7 +178,7 @@
     max_icon_size = 32
 
     # Paths to default icons.
-    icon_path = /usr/share/icons/Tela-green-dark/32/devices/:/usr/share/icons/Tela-green-dark/scalable/apps/:/usr/share/icons/gnome/16x16/status/:/usr/share/icons/gnome/16x16/devices/
+    icon_path = /usr/share/icons/Papirus/32x32/devices/:/usr/share/icons/Papirus/32x32/apps/:/usr/share/icons/Adwaita/32x32/status/:/usr/share/icons/Adwaita/32x32/devices/
 
     ### History ###
 
@@ -295,21 +295,21 @@
 [urgency_low]
     # IMPORTANT: colors have to be defined in quotation marks.
     # Otherwise the "#" and following would be interpreted as a comment.
-    background = "#263034"
+    background = "#0F1011"
     foreground = "#888888"
     timeout = 10
     # Icon for notifications with low urgency, uncomment to enable
     #icon = /path/to/icon
 
 [urgency_normal]
-    background = "#263034"
+    background = "#0F1011"
     foreground = "#ffffff"
     timeout = 10
     # Icon for notifications with normal urgency, uncomment to enable
     #icon = /path/to/icon
 
 [urgency_critical]
-    background = "#263034"
+    background = "#0F1011"
     foreground = "#ffffff"
     frame_color = "#ff0000"
     timeout = 0
