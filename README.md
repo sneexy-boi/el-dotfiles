@@ -1,5 +1,5 @@
 # el-dotfiles
-small dotfiles "made" by ruben, made specifically for xfce (version 4.16 as the time this is being updated) but should work on any distros with these programs i guess.
+Small dotfiles made by ruben, made specifically for Xfce (version 4.16 as the time this is being updated) but should work on any other distro.
 
 # the basics
 
@@ -14,26 +14,28 @@ picom - https://github.com/yshui/picom
 
 
 
-using the Matcha Theme for both kvantum and gtk:
+using the Material-Black theme for GTK and Materia KDE for Kvantum:
 
 
-Kvantum: https://www.pling.com/p/1312391
+Kvantum: https://www.pling.com/p/1229126/
 
 
-GTK: https://www.pling.com/p/1187179
+GTK: https://www.pling.com/p/1316887
 
 
 
 
-using the Tela icon theme: https://www.pling.com/p/1279924
+using the Papirus icon theme: https://www.pling.com/p/1166289
 
 
 
 
 using the Breeze Snow Cursors:
+
+
 install with your package manager
 
 
 
 
-sorry if this looks bad, this is my first time using github and markdown lol
+sorry if this looks bad, this is basically meant for personal use but i have them here for anyone to experiment with.
